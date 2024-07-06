@@ -1,0 +1,67 @@
+[
+  {
+    "commentId": 1,
+    "author": {
+      "authorId": 1,
+      "nickname": "User 1",
+      "avatarUrl": "https://loremflickr.com/640/360?random=1"
+    },
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti quam, nihil debitis veniam est quod enim aliquid dignissimos facere, vel deserunt expedita inventore excepturi accusantium culpa ipsam quos minima eum.",
+    "publication": 1719146755282,
+    "statistic": {
+      "likes": 21,
+      "dislikes": 0
+    },
+    "replies": [
+      {
+        "commentId": 12,
+        "author": {
+          "authorId": 2,
+          "nickname": "User 11",
+          "avatarUrl": "https://loremflickr.com/640/360?random=2"
+        },
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti quam, nihil debitis veniam est quod enim aliquid dignissimos facere, vel deserunt expedita inventore excepturi accusantium culpa ipsam quos minima eum.",
+        "publication": 1719146755282,
+        "statistic": {
+          "likes": 1,
+          "dislikes": 5
+        },
+        "replies": [],
+        "status": "existing"
+      }
+    ],
+    "status": "existing"
+  },
+  {
+    "commentId": 2,
+    "author": {
+      "authorId": 2,
+      "nickname": "User 1",
+      "avatarUrl": "https://loremflickr.com/640/360?random=2"
+    },
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti quam, nihil debitis veniam est quod enim aliquid dignissimos facere, vel deserunt expedita inventore excepturi accusantium culpa ipsam quos minima eum.",
+    "publication": 1719146755282,
+    "statistic": {
+      "likes": 1,
+      "dislikes": 5
+    },
+    "replies": [],
+    "status": "existing"
+  },
+  {
+    "commentId": 3,
+    "author": {
+      "authorId": 3,
+      "nickname": "User 1",
+      "avatarUrl": "https://loremflickr.com/640/360?random=3"
+    },
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti quam, nihil debitis veniam est quod enim aliquid dignissimos facere, vel deserunt expedita inventore excepturi accusantium culpa ipsam quos minima eum.",
+    "publication": 1719146755282,
+    "statistic": {
+      "likes": 1,
+      "dislikes": 2
+    },
+    "replies": [],
+    "status": "deleted"
+  }
+]
